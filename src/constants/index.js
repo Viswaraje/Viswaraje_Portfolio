@@ -288,7 +288,9 @@ import {
         },
       ],
       image: PortfolioProj,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://githttps://github.com/Viswaraje/Viswaraje_Portfoliohub.com/",
+      live_demo_link: "https://viswarajeportfolio.netlify.app/" // Add this property
+
     },
   ];
 

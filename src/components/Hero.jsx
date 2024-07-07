@@ -121,7 +121,7 @@ const Hero = () => {
             transform: translateY(-50%) translateX(0);
           }
           50% {
-            transform: translateY(-90%) translateX(10px);
+            transform: translateY(-70%) translateX(10px);
           }
         }
 
